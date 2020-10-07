@@ -74,8 +74,7 @@ a {
   width: fit-content;
   height: fit-content;
   align-self: start;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   padding: 10px;
   padding-right: 30px;
   padding-left: 30px;
@@ -104,4 +103,10 @@ a {
   color: aliceblue;
   opacity: 0.5;
   
+}
+#link{
+  margin-left: auto;
+  margin-right: auto;
+  height: fit-content;
+  width: fit-content;
 }
